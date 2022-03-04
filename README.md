@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/orestprystayko">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/L">
+  <a href="https://twitter.com/oprystaiko">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.codewars.com/users/qetr1ck-op">
@@ -14,6 +14,10 @@
   </a>
 </div>
 
+<div id="visits-counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=qetr1ck-op&style=flat-square&color=blue" alt="Visits Counter"/>
+</div>
+  
 <h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -41,9 +45,25 @@ I am a Full Stack JavaScript Developer <img src="https://media.giphy.com/media/W
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
+  <img src="https://miro.medium.com/max/1400/1*iXsCHAHPN7xFAWuuWjE6-Q.png" title="NextJS" alt="NextJS" height="40"/>&nbsp;  
+  <img src="https://cdn.worldvectorlogo.com/logos/mobx.svg" title="MobX" alt="MobX" height="40" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" height="40" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" height="40" width="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/5235395/156804845-f8cf8e0c-d047-4511-a1b9-7498333f8d0a.png" title="Chromatic" alt="Chromatic" height="40" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" height="40" width="40"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" title="Cypress" alt="Cypress" height="40" width="40"/>&nbsp;
+  <img src="https://playwright.dev/java/img/playwright-logo.svg" title="Playwright" alt="Playwright" height="40" width="40"/>&nbsp;
+  <img src="https://testing-library.com/img/octopus-128x128.png" title="React Testing Library" alt="React Testing Library" height="40" width="40"/>&nbsp;
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40">&nbsp;
+  <img src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png" title="Styled Components" alt="Styled Components" width="40" height="40">&nbsp;
+  <img src="https://user-images.githubusercontent.com/5235395/156807274-356be86f-c633-4836-a75e-fc90d3de6c9b.png" title="JSS" alt="JSS" width="40" height="40">&nbsp;
   
+  https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg
+  
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" title="NodeJS" alt="NodeJS" height="40"/>&nbsp;
+
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
