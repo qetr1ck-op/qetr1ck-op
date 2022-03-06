@@ -62,6 +62,7 @@ My skill-set allows me to efficiently manage the development process with contin
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/express/express-original.svg" title="Express.js" alt="Express.js" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nestjs/nestjs-plain.svg" title="Nest.js" alt="Nest.js" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/graphql/graphql-plain.svg" title="graphql" alt="graphql" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" title="type orm" alt="type orm" height="40"/>&nbsp;
@@ -77,6 +78,7 @@ My skill-set allows me to efficiently manage the development process with contin
   <img src="https://avatars1.githubusercontent.com/u/9503099"  title="jss" alt="jss" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg"  title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/materialui/materialui-plain.svg"  title="meterial ui" alt="meterial ui" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tailwindcss/tailwindcss-plain.svg"  title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg"  title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg"  title="github" alt="github" width="40" height="40"/>&nbsp;
