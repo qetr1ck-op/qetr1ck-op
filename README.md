@@ -32,19 +32,18 @@
 
 ### :man_technologist: About Me :
 
-I am a competent Javascript Engineer from Ukraine  with more than 10 years of practical web coding experience . My expertise includes high-performance websites ranging from large web-based enterprise products to SPA solutions, as well as hybrid mobile apps development.
+I am a Full-stack Javascript Engineer from Ukraine with more than 10 years of practical web coding experience. My expertise includes high-performance websites ranging from large web-based enterprise products to SPA/SSR solutions, as well as hybrid mobile apps development.
 
-My skill-set allows me to efficiently manage the development process with continuous maintenance. Good command of English helps me to communicate with customers and cope with project requirements smoothly. I am a hard-working and good team player. I always deliver the results requested at the best timing and under strict deadlines.
+My skill-set allows me to efficiently manage the development process with continuous maintenance. Good command of English helps me to communicate with customers and cope with project requirements smoothly. I always deliver the results requested at the best timing and under strict deadlines.
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div style="{background: grey}">
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS" height="40" width="40"/>&nbsp;  
+  <img src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc" title="NextJS" alt="NextJS" height="40" width="40"/>&nbsp;  
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-  <img src="https://miro.medium.com/max/1400/1*kmm4E29iST5X569ItIEaKQ.png" title="Recoil" alt="Recoil" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/mobx.svg" title="MobX" alt="MobX" height="40" width="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/d3js/d3js-original.svg"  title="d3.js" alt="d3.js" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ionic/ionic-original.svg" title="ionic" alt="ionic" height="40" width="40px"/>&nbsp;
@@ -60,7 +59,7 @@ My skill-set allows me to efficiently manage the development process with contin
   <img src="https://playwright.dev/java/img/playwright-logo.svg" title="Playwright" alt="Playwright" height="40" width="40"/>&nbsp;
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/express/express-original.svg" title="Express.js" alt="Express.js" height="40"/>&nbsp;
+  <img src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" title="Express.js" alt="Express.js" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nestjs/nestjs-plain.svg" title="Nest.js" alt="Nest.js" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/graphql/graphql-plain.svg" title="graphql" alt="graphql" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" height="40"/>&nbsp;
@@ -81,8 +80,8 @@ My skill-set allows me to efficiently manage the development process with contin
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tailwindcss/tailwindcss-plain.svg"  title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg"  title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg"  title="github" alt="github" width="40" height="40"/>&nbsp;
-  <img src="https://eslint.org/assets/img/favicon.512x512.png"  title="eslint" alt="eslint" width="40" height="40"/>&nbsp;
+  <img src="https://e7.pngegg.com/pngimages/914/758/png-clipart-computer-icons-logo-github-github-logo-logo-computer-program-thumbnail.png"  title="github" alt="github" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" title="eslint" alt="eslint" width="40" height="40"/>&nbsp;
   <img src="https://prettier.io/icon.png"  title="prettier" alt="prettier" width="40" height="40"/>&nbsp;
 </div>
 
